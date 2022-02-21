@@ -2,7 +2,9 @@
 
 Twitter Chrome Extension 
 
-![Demo](https://github.com/Hubab1/twitter-ens-extension/blob/master/demo/demo.mov)
+## Demo
+
+![Demo](https://github.com/Hubab1/twitter-ens-extension/blob/master/demo/demo.gif)
 
 ## Project Structure
 
