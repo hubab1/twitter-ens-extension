@@ -4,7 +4,7 @@ Twitter Chrome Extension
 
 ## Demo
 
-![Demo](https://github.com/Hubab1/twitter-ens-extension/blob/master/demo/demo.gif)
+<img src='./demo/demo.gif'>
 
 ## Project Structure
 
